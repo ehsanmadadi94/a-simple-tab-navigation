@@ -1,0 +1,13 @@
+html{
+    direction: rtl;
+}
+
+.shd_hide {
+    display: none;
+}
+.selected{
+    display: block;
+    border-top: solid 4px red
+
+}
+
